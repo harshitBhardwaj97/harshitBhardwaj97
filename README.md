@@ -1,21 +1,45 @@
-Hi there, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Harshit Bhardwaj
-=================================
-
-I'm an aspiring Full Stack Engineer
--------------------------------------
+# Hi there, I'm Harshit Bhardwaj 👋
 
 
-I started off as a Quality Engineer Intern in one fast paced Ed-tech startup, got to learn a lot there, since I had to wear multiple hats. After that I got an opportunity to work in CORPORATE on a FINTECH Project, where I was assigned as the SPOC for one of the implementations of the core product. So I can say that I have an in-depth exposure to complete STLC and SDLC processes, and a good experience in working with both small and mid-sized teams. 
+## I'm an aspiring Engineer ⚙️ and Polymath 🧠
 
-In my last company, I got the opportunity to automate a complex workflow of an entire Invoice Lifecycle, including multiple steps via SFTP server, which drastically reduced the manual efforts of the team, for which I was also acknowledged by VP of engineering with a recognition of my efforts. 
+My curiosity and passion for learning continuously drive me to explore new fields of technology and problem-solving, which I believe are essential for a well-rounded engineering mindset.
 
-But I wanted to take things a step further and also increase my existing knowledge base, so from past few months I have been dedicating my energy towards mastering the craft of software development. Currently I am working as a Senior Automation Engineer, and I am responsible for building automation solutions for the clients and solving queries of junior engineers. I am aware that to stay relevant in tech sector, one needs to always stay updated and have an ever learning attitude, thus whenever I get time, I devote that in learning some new concepts (with hands-on approach, by implementing the concepts I learnt and building something related) or solidifying my existing knowledge. 
+### My Journey 🚀
 
-Lastly, I would like to say that don't judge anyone solely based on the numbers of years of experience in any particular technology, and here's a very good article about the [same](https://blog.codinghorror.com/the-years-of-experience-myth/). Just give me a fair chance of evaluation, and see it for yourself what I say holds any value or not. I'm looking forward to contribute in the industry and society with whatever resources and knowledge I have, and I'm open for an exciting role that challenges the status quo and brings the best out of me !
+I started off as a **Quality Engineer Intern** in one fast-paced **Ed-tech startup**, got to learn a lot there, since I had to wear **multiple hats**. After that, I got an opportunity to work in **CORPORATE** on a **FINTECH Project**, where I was assigned as the **SPOC** for one of the implementations of the core product. So I can say that I have an in-depth exposure to complete **STLC** and **SDLC processes**, and a good experience in working with both small and mid-sized teams. 
 
-* 🌍  I'm based in India.
-* ✉️  You can contact me at [harshitbhardwaj97@gmail.com](mailto:harshitbhardwaj97@gmail.com).
-* 🧠  I'm learning Backend-Development, DevOps.
+In my last company, I got the opportunity to automate a complex workflow of an entire **Invoice Lifecycle**, including multiple steps via **SFTP server**, which drastically reduced the manual efforts of the team, for which I was also **acknowledged** by VP of engineering with recognition of my efforts. 
+
+### Current Role & Future Goals 🎯
+
+Currently, I’m a **Senior Automation Engineer** 🔧, building automation solutions for clients and mentoring junior engineers. However, I’m always looking to expand my skill set and take on new challenges.
+
+Over the past few months, I’ve shifted my focus towards mastering **Software Development**, with a particular emphasis on **Backend Development**, **Spring Boot** 🌱, and **General Problem Solving** 🧩. I’m diving deep into these areas to better understand how complex systems work and how to design scalable, maintainable solutions. I believe in **continuous learning** 📚 and strive to stay relevant in the ever-evolving tech landscape. In my spare time, I love exploring new technologies and applying hands-on concepts to build **real-world solutions**.
+
+Additionally, I run a small [**YouTube channel**](https://www.youtube.com/@harshitbhardwaj97) 🎥 where I post tech content, record myself solving problems, creating projects, and discussing technology in general. It’s a great way for me to share my learning journey, interact with the tech community, and also act as a **proof of concept** for potential employers, recruiters, and clients.
+
+### A Few Thoughts 💭
+
+I don't believe in judging someone's ability purely based on years of experience or specific technologies. Here's a great article on why [**experience doesn't always equal skill**](https://blog.codinghorror.com/the-years-of-experience-myth/). Just give me a fair chance of evaluation, and see for yourself what I say holds any value or not. I'm looking forward to contributing to the industry and society with whatever resources and knowledge I have, and I'm open for an exciting role that challenges the status quo and brings the best engineer out of me!
+
+### About Me 🧠
+- 🌍 **Based in:** India
+- 🧠 **Currently Learning:** Backend Development, Software Architecture, Spring Boot, Design Patterns
+- 💻 **Areas of Interest:**
+  - **JVM-based languages** (Java, Kotlin) ☕
+  - **Spring Boot** 🌱
+  - **Backend Development** 🔧
+  - **Software Architecture** 🏛️
+  - **Problem Solving** 🧩
+  - **Research & Development** 🔬
+  - **Low-Level Coding** 🖥️
+
+### Let's Connect 🔗
+- ✉️ **Email:** harshitbhardwaj97@gmail.com
+- 🔗 **LinkedIn:** [linkedin.com/in/harshit-bhardwaj-9920bb26a](https://www.linkedin.com/in/harshit-bhardwaj-9920bb26a/)
+- 💼 **Peerlist:** [peerlist.io/harshitbhardwaj](https://peerlist.io/harshitbhardwaj)
+
 
 ## Skills / Hands-on experience on the following technologies - 
 
